@@ -19,4 +19,6 @@ A solution set is:
 
 var fourSum = function(nums, target) {
   //Your code is here
+  //slice and sort input array
+  //
 };
